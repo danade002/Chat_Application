@@ -1,9 +1,9 @@
-# Git Chat Application
+# Chat Application
  
 
 
-This Application is a mini chat application interface with chat between the Server and the Client.
+This Application is a mini chat application interface with chat between the server and client on the same port.
 
-The Client connect to the server through the host name.
+The client program connect to the server through the host name.
 
-The server see the IP address when successfully connected.
+The server program see the IP address when successfully connected.
