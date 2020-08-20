@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
-chmod u+r+x run_test.sh
-    ./run_test.sh
+chmod +x the_file_name
     
 set -e
 
